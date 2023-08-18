@@ -1,3 +1,6 @@
+global using static data_balk.Utils.TripTypes;
+global using static data_balk.Utils.TaxiRoles;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
